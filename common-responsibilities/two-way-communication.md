@@ -6,5 +6,3 @@ From a technology systems perspective, we should develop systems that provide tw
 
 From a business perspective, we should work to foster clear and personal communication between organizations. This can include sharing communications channels like chat, allowing outside participatio in some decisions, and even sharing office space for in-person collaboration and ideation.
 
-
-

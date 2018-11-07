@@ -27,5 +27,3 @@ When designing a **Vehicle API**, at least some of the following actions are imp
 
 * [ACRISS Car Classification Codes](https://en.wikipedia.org/wiki/ACRISS_Car_Classification_Code)
 
-
-

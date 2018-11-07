@@ -29,5 +29,3 @@ When designing a **Coverage API**, some or all of the following may be important
 * [NeTEx](https://en.wikipedia.org/wiki/NeTEx) - Technical standard for exchanging Public Transport Information as XML documents.
 * [Service Interface for Real Time Information](https://en.wikipedia.org/wiki/Service_Interface_for_Real_Time_Information) - allows distributed computers to exchange real-time information about [public transport](https://en.wikipedia.org/wiki/Public_transport) services and vehicles.
 
-
-

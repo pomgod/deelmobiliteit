@@ -1,4 +1,4 @@
-# Summary
+# Table of contents
 
 * [Introduction](README.md)
 * [MaaS Overview](maas-overview.md)
@@ -13,14 +13,14 @@
 
 ## Transportation Service Providers
 
-* [Introduction](introduction.md)
-* [Vehicles](vehicles.md)
-* [Bookings](bookings.md)
-* [Tickets](tickets.md)
-* [Products](products.md)
-* [Coverage and Routes](coverage-and-routes.md)
-* [Announcements](announcements.md)
-* [Payments](payments.md)
+* [Introduction](transportation-service-providers/introduction.md)
+* [Vehicles](transportation-service-providers/vehicles.md)
+* [Bookings](transportation-service-providers/bookings.md)
+* [Tickets](transportation-service-providers/tickets.md)
+* [Products](transportation-service-providers/products.md)
+* [Coverage and Routes](transportation-service-providers/coverage-and-routes.md)
+* [Announcements](transportation-service-providers/announcements.md)
+* [Payments](transportation-service-providers/payments.md)
 
 ## Mobility as a Service Providers
 
@@ -31,10 +31,8 @@
 * [Consistency](mobility-as-a-service-providers/consistency.md)
 * [Awareness](mobility-as-a-service-providers/awareness.md)
 
-
-
 ## End matter
 
-* [Glossary](GLOSSARY.md)
-* [Resources](resources.md)
+* [Glossary](end-matter/glossary.md)
+* [Resources](end-matter/resources.md)
 

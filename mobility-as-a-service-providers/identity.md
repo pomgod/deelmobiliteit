@@ -18,5 +18,3 @@ User information is shared with Transportation Service Providers on an as-needed
 
 * [Contracts and liabilities between controllers and processors](https://ico.org.uk/media/about-the-ico/consultations/2014789/draft-gdpr-contracts-guidance-v1-for-consultation-september-2017.pdf)
 
-
-

@@ -16,5 +16,3 @@ In adition to being able to physically move between service networks, people hav
 
 [Data Transfer Project](https://datatransferproject.dev/) - formed to create an open-source, service-to-service data portability platform so that all individuals across the web could easily move their data between online service providers whenever they want.
 
-
-

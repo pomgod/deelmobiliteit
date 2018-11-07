@@ -1,4 +1,4 @@
-# Mobility as a Service Overview
+# MaaS Overview
 
 Mobility as a Service is **built on the principle of service**. In our context, service means **meeting human needs**. We also have a commitment to **offer quality and promote sustainability.**
 
@@ -10,7 +10,7 @@ In order for MaaS to become reality, we need layers of technical infrastructure 
 
 By way of example, consider the following diagram showing some of the technical layers and data interchange needed to support a person when taking a multi-modal trip:
 
-![multi-modal user journey data-flow diagram](/resources/multi-modal_user_journey_data_flow.png)
+![multi-modal user journey data-flow diagram](.gitbook/assets/multi-modal_user_journey_data_flow.png)
 
 In the above abstraction, we can see there are many moving parts involved in efficient trip planning. execution, and reconciliation.
 

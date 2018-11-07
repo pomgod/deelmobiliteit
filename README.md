@@ -1,4 +1,4 @@
-# MaaS Guide _\(alpha\)_
+# Introduction
 
 Guidebook to help Mobility as a Service \(MaaS\) providers.
 

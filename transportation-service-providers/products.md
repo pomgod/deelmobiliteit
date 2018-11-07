@@ -11,5 +11,3 @@ When designing a **Product API**, some or all of the following actions may be im
   * by time
   * by customer segment
 
-
-

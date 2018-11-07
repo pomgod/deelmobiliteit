@@ -6,5 +6,3 @@ The following resources are related to the Mobility as a Service ecosystem.
 * [MaaS Services and Business Opportunities](https://julkaisut.liikennevirasto.fi/pdf8/lts_2015-56_maas_services_web.pdf) - This report evaluates the emerging traffic service markets and analyses the impacts and business opportunities of the Mobility as a Service, MaaS paradigm change for Finland.
 * [The Future of Mobility as a Service \(MaaS\)](https://www.tssg.org/files/2016/07/WhitePaper_MaaS_final1.pdf) - A case for EU and Irish research
 
-
-

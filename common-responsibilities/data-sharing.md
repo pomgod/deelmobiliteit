@@ -46,5 +46,3 @@ With those aspirations, how do we take practical steps foward and establish data
 * [Cooperative Situation Awareness in Transportation](http://elib.dlr.de/65151/1/Dissertation_MatthiasRoeckl.pdf)
 * [Vehicle Networks: The Networked Car](https://www.sti-innsbruck.at/sites/default/files/courses/fileadmin/documents/vn-ws0809/01-vn-intro.pdf)
 
-
-

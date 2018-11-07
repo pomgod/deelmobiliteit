@@ -19,5 +19,3 @@ When designing an **Announcements API**, some or all of the following may be rel
 
 * Wikipedia: [Service Interface for Real Time Information](https://en.wikipedia.org/wiki/Service_Interface_for_Real_Time_Information)
 
-
-

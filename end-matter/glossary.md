@@ -1,4 +1,4 @@
-# MaaS Glossary
+# Glossary
 
 This glossary outlines key concepts in this guidebook and Mobility as a Service in general.
 
@@ -6,11 +6,11 @@ The glossary structure is an alphabetic list of keywords \(in bold\) followed by
 
 ## Booking
 
-A form of reservation with one or more [transportation service providers](#transportation-service-provider) that enables a person to take a [trip](#trip).
+A form of reservation with one or more [transportation service providers](glossary.md#transportation-service-provider) that enables a person to take a [trip](glossary.md#trip).
 
 ## Reservation
 
-See: [Booking](#booking)
+See: [Booking](glossary.md#booking)
 
 ## Transportation Service Provider
 
@@ -18,7 +18,7 @@ An organization or operator that maintains one or more vehicles for the purpose 
 
 ## Ticket
 
-A digital or physical representation of a [booking](#booking), allowing a person to gain access to a form of transportation.
+A digital or physical representation of a [booking](glossary.md#booking), allowing a person to gain access to a form of transportation.
 
 ## **Trip**
 
@@ -26,5 +26,5 @@ A journey, taken by one or more persons, with one or more modes of transportatio
 
 ## Tour
 
-A type of [trip](#trip).
+A type of [trip](glossary.md#trip).
 

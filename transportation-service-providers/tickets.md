@@ -25,5 +25,3 @@ When designing a **Ticket API**, some/all of the following actions are important
 
 * BoB Wiki: [Electronic tickets](https://samtrafiken.atlassian.net/wiki/spaces/BOB/pages/116036706/2.+Electronic+tickets)
 
-
-
