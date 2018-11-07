@@ -1,5 +1,3 @@
-# Reporting
-
 ---
 title: Trips
 category: Monthly Submission
