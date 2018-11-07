@@ -16,5 +16,5 @@ This book is intended for stakeholders in transportation and MaaS providers. It 
 
 ## Attribution
 
-This work is provided by the [MaaS Alliance](https://maas-alliance.eu/), a public-private partnership creating the foundations for a common approach to MaaS, unlocking the economies of scale needed for successful implementation and take-up of MaaS in Europe and beyond. MaaS Guidebook is built and maintained on voluntary basis by MaaS Alliance's working group Technology and standards. The Guidebook is currently in very early phase.
+This work is provided by [Slim naar Antwerpen](www.slimnaarantwerpen.be/EN) and is based on the work done by the [MaaS Alliance](https://maas-alliance.eu/), a public-private partnership creating the foundations for a common approach to MaaS, unlocking the economies of scale needed for successful implementation and take-up of MaaS in Europe and beyond. MaaS Guidebook is built and maintained on voluntary basis by MaaS Alliance's working group Technology and standards. The Guidebook is currently in very early phase.
 

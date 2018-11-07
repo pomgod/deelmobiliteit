@@ -4,6 +4,22 @@ Mobility as a Service is **built on the principle of service**. In our context, 
 
 We are stewards of the social, technical, and environmental aspects of human mobility.
 
+## Definitions
+
+Many definitions of MaaS and the various stakeholders exist. For clarity we use the definitions below:
+
+#### Mobility Provider
+
+A mobility providers offers a -most often- physical mobility solution in the form of busses, shared vehicles, taxi service, ridesharing,... 
+
+#### Mobility Integrator
+
+A Mobility integrator combines information from various sources but...
+
+#### MaaS Provider
+
+
+
 ## Technical overview
 
 In order for MaaS to become reality, we need layers of technical infrastructure to support single- or multi-modal journies that span cities, regions, nations, continents, and possibly the globe. In other words, **we cannot work in isolation**.
