@@ -11,7 +11,6 @@
 * [Public benefit](common-responsibilities/public-benefit.md)
 * [Two-way communication](common-responsibilities/two-way-communication.md)
 
-
 ## Transportation Service Providers
 
 * [Introduction](transportation-service-providers/introduction.md)

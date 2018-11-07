@@ -6,7 +6,7 @@ order: 1
 
 # Reporting
 
-Trip data must be reported using the following schema and reported with the following `[company]-trips-[date].csv`.
+All stakeholders within a MaaS Ecosystem have their own need for data. As mentioned in the previous chapter it is important to share data. Since not all data is needed in real-time and most data has sensitivity issues, some data could/should be shared in a report format. Not all data needs to be shared with 
 
 
 
