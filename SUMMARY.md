@@ -6,10 +6,11 @@
 ## Common Responsibilities
 
 * [Data sharing](common-responsibilities/data-sharing.md)
+* [Reporting](common-responsibilities/reporting.md)
 * [Privacy](common-responsibilities/privacy.md)
 * [Public benefit](common-responsibilities/public-benefit.md)
 * [Two-way communication](common-responsibilities/two-way-communication.md)
-* [Reporting](common-responsibilities/reporting.md)
+
 
 ## Transportation Service Providers
 
