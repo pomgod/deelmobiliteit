@@ -8,9 +8,9 @@ We are stewards of the social, technical, and environmental aspects of human mob
 
 Many definitions of MaaS and the various stakeholders exist. For clarity we use the definitions below:
 
-#### Mobility Provider
+#### Transportation Service Provider \(TSP\)
 
-A mobility providers offers a -most often- physical mobility solution in the form of busses, shared vehicles, taxi service, ridesharing,... 
+A Transportation Service Providers offers a -most often- physical mobility solution in the form of busses, shared vehicles, taxi service, ridesharing,... 
 
 #### Mobility Integrator
 
