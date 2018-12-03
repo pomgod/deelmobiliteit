@@ -36,3 +36,7 @@
 * [Glossary](end-matter/glossary.md)
 * [Resources](end-matter/resources.md)
 
+## Data Structures
+
+* [Vehicles](data-structures/vehicles.md)
+
